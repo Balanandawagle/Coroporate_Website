@@ -4,8 +4,8 @@
  
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/Balanandawagle/NewsPortal-Project
-    cd NewsPortal-Project
+    git clone https://github.com/Balanandawagle/Coroporate_Website
+    cd Coroporate_Website
     ```
  
 2. **Install dependencies**:
